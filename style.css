@@ -350,52 +350,6 @@ min-height: auto;
 }
 }
 
-
-/*vconference & workshops*/
-#conferences-workshops {
-background: linear-gradient(to right, #f8f9fa, #e9ecef);
-padding: 50px 20px;
-text-align: center;
-}
-
-#conferences-workshops h2 {
-font-size: 2em;
-color: #333;
-text-transform: uppercase;
-margin-bottom: 20px;
-font-weight: bold;
-}
-
-.workshop-list {
-max-width: 1200px;
-margin: auto;
-}
-
-.workshop-item {
-background: white;
-padding: 15px 20px;
-margin: 15px 0;
-border-left: 5px solid #007bff;
-box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.1);
-border-radius: 8px;
-transition: transform 0.3s ease-in-out;
-}
-
-.workshop-item:hover {
-transform: translateY(-5px);
-}
-
-.workshop-item h3 {
-font-size: 1.3em;
-color: #007bff;
-margin-bottom: 5px;
-}
-
-.workshop-item p {
-font-size: 1.1em;
-color: #555;
-}
-
 /*achivements*/
 #achievements {
 background: #f8f9fa;
